@@ -1,0 +1,7 @@
+pyinstaller
+tkinter
+ping3
+json
+os
+sys
+locale
